@@ -1,0 +1,2 @@
+Installed chaincodes on peer:
+Package ID: mediCo_1:f41b833ac87081c37f5fddd5fc1b3e7a35fe2f19ad61ff1264e8ac76391f8a35, Label: mediCo_1
